@@ -1,0 +1,1 @@
+This is a python based program that uses the random module to choose between rock, paper and scissors. It prompts the user on choosing one on the mentioned and thus based on the game rules determine the winner.
